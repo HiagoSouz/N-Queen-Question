@@ -18,16 +18,16 @@ Solução 1:
 
 1
 
-#  R  #  #
-#  #  #  R
-R  #  #  #
-#  #  R  #
+@  R  @  @
+@  @  @  R
+R  @  @  @
+@  @  R  @
 -----------------------------------------
 Solução 2:
-#  #  R  #
-R  #  #  #
-#  #  #  R
-#  R  #  #
+@  @  R  @
+R  @  @  @
+@  @  @  R
+@  R  @  @
 ------------------------------------------
 
 Para fins de teste, seguem os números de soluções para alguns valores de n.
